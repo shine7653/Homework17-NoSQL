@@ -25,6 +25,12 @@ The user should be able to:
   * View multiple the combined weight of multiple exercises on the `stats` page.
   
   
-  <img src="screenshot/20200124_000228.png">
+  
+  
+  <img src="screenshot/20200128_151031.png">
+  
+  
+  
+  <img src="screenshot/20200128_151111.png">
 
 
